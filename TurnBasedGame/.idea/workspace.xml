@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d2e9be3-6a7d-49b7-b561-de220d132653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurnBasedGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Goblin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Hunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/ICharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Opponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Orc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Slime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Spear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Squire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Turn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Villager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusinessLayer/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TBGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZjFb0kmhye9yUcs6V11MIoRoCl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/CanDeniz/Desktop/Deniz/C"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d2e9be3-6a7d-49b7-b561-de220d132653" name="Changes" comment="" />
+      <created>1702927651010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702927651010</updated>
+    </task>
+    <servers />
+  </component>
+</project>
